@@ -1,0 +1,41 @@
+img{
+    width: 100px;
+    height: 300px;
+    border: 5px solid mediumblue;
+    background-color: coral;
+}
+
+
+
+
+h1{
+    background-color: crimson;
+    border-radius: 20px;
+    box-sizing: 2rem;
+    box-shadow: 10px 10px 10px black;
+    text-align: center;
+   
+    
+}
+
+#bhala{
+    object-fit: fill;
+   
+
+}
+#chiru{
+    object-fit: contain;
+
+}
+#kamal{
+    object-fit: cover;
+    
+}
+
+#nag{
+    object-fit: none;
+   
+}
+#venky{
+    object-fit: scale-down;
+}
